@@ -4,7 +4,7 @@ A **hybrid book recommender** built on the [Goodbooks-10k](https://www.kaggle.co
 It combines **content-based filtering** (TF-IDF on title + authors) and **collaborative filtering** (matrix factorization with SVD).  
 Designed to **run reliably on Streamlit Cloud** (no tricky native builds) and locally.
 
-> 🔗 **Live demo :** 
+> 🔗 **Live demo :** https://share.streamlit.io/user/vinayakp003
 
 ---
 
